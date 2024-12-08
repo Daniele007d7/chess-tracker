@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap");
+
+.date {
+  font-family: "DM Serif Text";
+  font-size: 25px;
+  color: antiquewhite;
+  width: 500px;
+  text-align: center;
+
+  margin: auto;
+}
+
+#calendar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.change-date-btn {
+  height: 50px;
+  width: 50px;
+  margin: 0px 15px 0px 15px;
+  border-radius: 20%;
+}
+
+#h2data {
+  border: 2px solid black;
+  padding: 5px;
+}
+
+.change-date-btn:hover {
+  background-color: green;
+}

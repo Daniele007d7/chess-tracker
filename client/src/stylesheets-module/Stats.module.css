@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap");
+
+#redirect {
+  font-family: "DM Serif Text";
+  color: aliceblue;
+  text-align: center;
+}
+
+#graph {
+  width: 600px;
+  margin: auto;
+}
